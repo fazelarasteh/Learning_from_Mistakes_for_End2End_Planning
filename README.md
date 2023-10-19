@@ -14,3 +14,32 @@ NOTE: We are actively testing and improving our models with Nuplan data. This pa
 | UrbanDrive (without augmentation) |  public testset | 0.388708  | 0.898438  | 0.639957 | 0.57265 |
 | IDMPlanner | public testset | 0.702864 | 0.837308 | 0.865385 |  0.752137 |
 | LfM-cs | public testset | - | - | - | - | 
+
+Sample performance on Nuplan Scnearios (videos from our non-reactive simulator): 
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/46789ba2-e7e5-409d-a86c-9ed48711516e
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/47bd9055-5efa-4e96-9af0-d2a7044408b8
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/6977e49a-e9e0-4de2-81ff-f7df4829c14f
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/29317a20-0278-42a9-92a7-031259fce395
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/1f72359c-f912-4723-9713-5f440ed64b2f
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/5e5c4ee8-e9e1-485b-a173-c8b2c9802876
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/ed2bd682-bf69-412e-9998-6978d346ac91
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/f64c7270-c953-4714-9903-0d2d65a22684
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/1a8a1a59-0882-4b54-be40-8cda2dd5f5ea
+
+https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/e7fb43a1-f500-486d-90c0-128597119ac5
+
+
+
+
+
+
+
