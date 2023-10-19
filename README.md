@@ -2,6 +2,8 @@
 
 NOTE: We are actively testing and improving our models with Nuplan data. This page is to report our latest results.
 
+## Closedloop metrics on Nuplan Scnearios: 
+
 | model | data-set  | overall-score | ego-progress-along-expert-route | no-ego-at-fault-collisions | time-to-collision-within-bound |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | UrbanDrive (with augmentation) | private testset (leader board) | 0.6821 | 0.8417 | 0.8952 | 0.8065 |
@@ -15,7 +17,17 @@ NOTE: We are actively testing and improving our models with Nuplan data. This pa
 | IDMPlanner | public testset | 0.702864 | 0.837308 | 0.865385 |  0.752137 |
 | LfM-cs | public testset | - | - | - | - | 
 
-Sample performance on Nuplan Scnearios (videos from our non-reactive simulator): 
+## Sample performance on Nuplan Scnearios (videos from our non-reactive simulator): 
+
+| Visual | Meaning |
+| ------------- | ------------- | 
+| White Dots| Candidate targets (samples from the centerlines that reach the target) | 
+| Dark Green Rectangle | Expert |
+| Light Green Rectangle | Ego |
+| Blue Rectangle | Other tracks | 
+| Red Dot | Ego action with high probablity | 
+| Blue Dot | Ego acition with low probablity | 
+
 
 https://github.com/fazelarasteh/LfM-4e2e-Planning/assets/32936159/46789ba2-e7e5-409d-a86c-9ed48711516e
 
