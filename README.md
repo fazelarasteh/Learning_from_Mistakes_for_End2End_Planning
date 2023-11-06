@@ -15,7 +15,7 @@
 | SimplePlanner  | public testset | 0.294318 | 0.496391 | 0.732179 | 0.691446 |
 | UrbanDrive (without augmentation) |  public testset | 0.388708  | 0.898438  | 0.639957 | 0.57265 |
 | IDMPlanner | public testset | 0.702864 | 0.837308 | 0.865385 |  0.752137 |
-| LfM-cs | public testset | 0.665852 | 0.904197 | 0.812155   | 0.773481  | 0.861878 | 0.883978 |
+| LfM-cs | public testset | **0.665852** | **0.904197** | **0.812155**  | **0.773481** | **0.861878** | **0.883978** |
 
 ## Sample performance on Nuplan Scnearios (videos from our non-reactive simulator): 
 
